@@ -7,4 +7,5 @@ def line(array)
       order << "#{index + 1}. #{name}"
     end
     puts order
+  end
 end
